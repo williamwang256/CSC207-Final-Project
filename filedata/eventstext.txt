@@ -1,0 +1,9 @@
+0%%Test 1%%2020-12-30T12:00%%2%%%%ProfA%%%%15%%false%%
+1%%Test 2%%2021-01-05T12:00%%2%%k,j%%ProfA%%%%10%%false%%
+2%%Test 3%%2021-02-01T12:00%%2%%r%%ProfA%%%%10%%false%%
+3%%Animal Expo%%2021-01-01T10:00%%3%%k,j%%GS%%%%30%%false%%
+4%%Extra Study Session%%2020-12-29T09:00%%5%%r%%ProfA%%%%3%%true%%
+5%%Event1%%2080-12-12T12:00%%1%%%%ProfA,GS%%%%2%%false%%
+6%%event5%%2035-01-01T00:00%%1%%%%ProfA,GS%%%%1%%false%%
+7%%nospeaker1%%2023-02-02T00:00%%1%%%%%%%%1%%false%%
+8%%2speakerz%%2026-01-01T00:00%%1%%%%GS,ProfA%%%%1%%false%%

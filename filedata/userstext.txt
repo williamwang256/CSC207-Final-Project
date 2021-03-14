@@ -1,0 +1,10 @@
+a-b-c----false-attendee
+Ronny-r-t---2##4-true-attendee
+Robert-rob-g----true-attendee
+Jacob-j-a---1##3-false-attendee
+Kevin-k-c---1##3-false-6##8-will,GS-organizer
+Professor Albert-ProfA-password-r,j,k--6##8-speaker
+William-will-pass----speaker
+Guest Speaker-GS-password-j,k--8-speaker
+admin1-admin-password----false---admin
+Liam-shaan-chom----false---admin
