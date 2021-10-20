@@ -27,16 +27,11 @@ public class SystemBuilder {
     private final RequestSystem requestSystem;
     private final Persistence persistence;
 
-    private static final String userPath = "phase2"+ File.separator  + "filedata"
-            +  File.separator + "userstext.txt";
-    private static final String eventsPath = "phase2" + File.separator + "filedata"
-            +  File.separator + "eventstext.txt";
-    private static final String messagesPath = "phase2" + File.separator + "filedata"
-            + File.separator + "messagestext.txt";
-    private static final String roomsPath = "phase2" + File.separator + "filedata"
-            + File.separator + "roomstext.txt";
-    private static final String requestsPath = "phase2" + File.separator + "filedata"
-            + File.separator + "requeststext.txt";
+    private static final String userPath = "filedata" +  File.separator + "userstext.txt";
+    private static final String eventsPath = "filedata" +  File.separator + "eventstext.txt";
+    private static final String messagesPath = "filedata" + File.separator + "messagestext.txt";
+    private static final String roomsPath = "filedata" + File.separator + "roomstext.txt";
+    private static final String requestsPath = "filedata" + File.separator + "requeststext.txt";
 
     /**
      * Responsible for instantiating all relevant Use Cases, Controllers etc.
